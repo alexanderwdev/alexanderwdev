@@ -21,9 +21,14 @@ I have developed multiple academic and personal projects, including two database
 - **Database-focused projects:**  
   - Creation of relational and EER models from requirements  
   - Implementation of databases using MariaDB  
-  - Initial experimentation with Docker for containerized database environments  
+  - Initial experimentation with Docker for containerized database environments
 
-You can find these projects on my GitHub profile.
+ You can find these projects on my GitHub profile.
+
+- **Games on Roblox (LUAu):**
+  - Development of gameplay mechanics, scoring systems, and interaction scripts using LUA
+  - Publishing and maintaining games on the Roblox platform
+  - Experience with object-oriented programming and event-driven logic
 
 ## Goals
 My goal is to continue growing as a developer by working on real-world projects that challenge my problem-solving skills and deepen my understanding of software design, databases, and modern development practices.
