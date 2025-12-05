@@ -2,7 +2,7 @@
 I am a **Software Development student (DAM)** with a strong interest in creating efficient, reliable, and scalable applications. Throughout my studies and personal projects, I have developed solid technical and analytical skills in both backend and frontend development.
 
 ## About Me
-- Currently pursuing a **Higher Degree in Multiplatform Application Development (DAM)**
+- Currently pursuing a Higher Degree in Multiplatform Application Development (DAM)
 - Focused on writing clean, maintainable, and well-structured code
 - Passionate about learning new technologies and applying best practices in software engineering
 - Interested in software architecture, design patterns, and modern development methodologies
@@ -13,7 +13,7 @@ I am a **Software Development student (DAM)** with a strong interest in creating
   - Object-Oriented Programming  
   - Web Development  
   - **Database Design:** relational models, EER models, normalization, SQL querying
-- **Tools & Environments:** Visual Studio Code, IntelliJ IDEA, **MariaDB**, **Docker**
+- **Tools & Environments:** Visual Studio Code, IntelliJ IDEA, MariaDB, Docker
 
 ## Projects
 I have developed multiple academic and personal projects, including two database-driven applications available on my GitHub:
