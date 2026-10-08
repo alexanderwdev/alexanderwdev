@@ -8,7 +8,7 @@ I am a **Software Development student (DAM)** with a strong interest in creating
 - Interested in software architecture, design patterns, and modern development methodologies
 
 ## Technical Skills (from most to least experienced)
-- **Programming Languages:** Java, HTML, CSS, Lua, Python
+- **Programming Languages:** Java, HTML, CSS, Kotlin, Lua, Python
 - **Core Competencies:**  
   - Object-Oriented Programming  
   - Web Development  
